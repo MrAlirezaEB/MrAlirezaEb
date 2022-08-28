@@ -1,7 +1,7 @@
 
 
 
-[![Alireza Ebrahimzade](https://i.ibb.co/mz1ZGY5/1661672247150.jpg =80x)](https://alireza.wtf) [![Alireza Ebrahimzade](https://newbie.zeromesh.net/donate.7.6.svg)](https://donate.cafe/alireza) 
+[![Alireza Ebrahimzade](https://i.ibb.co/mz1ZGY5/1661672247150.jpg)](https://alireza.wtf) [![Alireza Ebrahimzade](https://newbie.zeromesh.net/donate.7.6.svg)](https://donate.cafe/alireza) 
 
 <h1 align="center">Hi 👋, I'm Alireza</h1>  
 <h3 align="center">A full-stack web developer at https://bugloos.com</h3>  
